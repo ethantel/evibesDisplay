@@ -2,7 +2,7 @@
 title: Getting started
 ---
 
-{% brand-chart /%}
+{% chart /%}
 
 Learn how to get CacheAdvance set up in your project in under thirty minutes or it's free. {% .lead %}
 

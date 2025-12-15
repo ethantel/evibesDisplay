@@ -1,11 +1,11 @@
 import { Callout } from '@/components/Callout'
 import { QuickLink, QuickLinks } from '@/components/QuickLinks'
-import { BrandChart } from '@/components/BrandChart'
+import { Chart } from '@/components/Chart'
 
 const tags = {
-  'brand-chart': {
+  chart: {
     selfClosing: true,
-    render: BrandChart,
+    render: Chart,
   },
   callout: {
     attributes: {

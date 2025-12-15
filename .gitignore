@@ -19,3 +19,12 @@ amplifytools.xcconfig
 .secret-*
 **.sample
 #amplify-do-not-edit-end
+
+# Next.js build output
+.next/
+out/
+build/
+
+# System files
+.DS_Store
+Thumbs.db
