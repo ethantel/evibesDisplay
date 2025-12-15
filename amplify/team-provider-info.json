@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-evibesinfodisplay-dev-9de05-authRole",
+      "UnauthRoleArn": "arn:aws:iam::637423399194:role/amplify-evibesinfodisplay-dev-9de05-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::637423399194:role/amplify-evibesinfodisplay-dev-9de05-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-evibesinfodisplay-dev-9de05-deployment",
+      "UnauthRoleName": "amplify-evibesinfodisplay-dev-9de05-unauthRole",
+      "StackName": "amplify-evibesinfodisplay-dev-9de05",
+      "StackId": "arn:aws:cloudformation:us-east-1:637423399194:stack/amplify-evibesinfodisplay-dev-9de05/f4c3fe80-d9ec-11f0-894a-12fa8a4e3233",
+      "AmplifyAppId": "d30bzr85zgdlj8"
+    },
+    "categories": {
+      "auth": {
+        "evibesinfodisplay0642ac53": {}
+      },
+      "storage": {
+        "s3b0507cfb": {}
+      }
+    }
+  }
+}

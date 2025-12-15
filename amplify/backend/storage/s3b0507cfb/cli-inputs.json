@@ -1,0 +1,16 @@
+{
+  "resourceName": "s3b0507cfb",
+  "policyUUID": "b0507cfb",
+  "bucketName": "evibesinfodisplay040e5c7251dc48289412e5d86faf1f",
+  "storageAccess": "authAndGuest",
+  "guestAccess": [
+    "READ"
+  ],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
